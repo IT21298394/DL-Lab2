@@ -1,0 +1,7 @@
+-	What happens when the number of hidden nodes increases?
+When we increase the number of hidden nodes, the model’s learning capacity to learn complex patterns also increases.
+This improves accuracy of the prediction. Adding more hidden nodes after a certain point may give overfitting results.
+-	Can you explain the pattern of accuracy when the hidden nodes increase?
+When more hidden nodes are added pattern of accuracy will improve and increase.
+Because of model can identify and monitor more complex relationships in the data.
+Adding more hidden nodes after a certain point may cause decreases in accuracy.
